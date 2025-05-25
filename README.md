@@ -11,7 +11,7 @@ IT Fullstack Developer | Business & Data Analyst
 [![Mario Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=mario.se7en17&type=horizontal)](https://medium.com/@mario.se7en17)
 
 ## Spotify tracks:
-[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21c5ulsi65bcngzw6civ5yfiy)]
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21c5ulsi65bcngzw6civ5yfiy&unique={true|1|on|yes})]
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,js,jquery,alpinejs,php,laravel,nodejs,dotnet,py,mysql,postgres,sqlite,mongodb,git,github,docker,nginx,figma,canva,notion&perline=13&theme=light)](https://skillicons.dev)
