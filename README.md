@@ -26,7 +26,9 @@
   <a href="https://www.instagram.com/mario.pratama7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red?style=for-the-badge&link=https%3A%2F%2Faistudio.instagram.com%2Fai%2F1052795243443891%3Futm_source%3Dai_agent">
+  <a href="https%3A%2F%2Faistudio.instagram.com%2Fai%2F1052795243443891%3Futm_source%3Dai_agent" target="_blank">
+    <img src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red?style=for-the-badge>
+  </a>
 </div>
 
 <h2 align="left">Tech Stack: </h2>
