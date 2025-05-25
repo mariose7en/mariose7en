@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://fb.com/mario.putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mario.putra" height="30" width="40" /></a>
 <a href="https://instagram.com/mario.pratama7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mario.pratama7" height="30" width="40" /></a>
-![Static Badge](https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red?style=for-the-badge&link=https%3A%2F%2Faistudio.instagram.com%2Fai%2F1052795243443891%3Futm_source%3Dai_agent)
+<img alt="Static Badge" src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red?style=for-the-badge&link=https%3A%2F%2Faistudio.instagram.com%2Fai%2F1052795243443891%3Futm_source%3Dai_agent">
 </p>
 
 # Tech Stack:
