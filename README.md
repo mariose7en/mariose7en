@@ -26,8 +26,13 @@
   <a href="https://www.instagram.com/mario.pratama7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+<div align="left">
   <a href="https://aistudio.instagram.com/ai/1052795243443891?utm_source=ai_agent" target="_blank">
     <img src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red"/>
+  </a>
+  <a href="https://open.spotify.com/user/21c5ulsi65bcngzw6civ5yfiy?si=6bc10e18c63d46d1" target="_blank">
+    <img src="https://img.shields.io/badge/mario_playlist-spotify-green"/>
   </a>
 </div>
 
