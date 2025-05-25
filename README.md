@@ -13,10 +13,10 @@ IT Fullstack Developer | Business & Data Analyst
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21c5ulsi65bcngzw6civ5yfiy&count=3)]
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,js,jquery,alpinejs&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,js,jquery,alpinejs&perline=8&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,dotnet,py&perline=5&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,github,docker,nginx&perline=8&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,canva,notion&perline=3&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion&perline=2&theme=light)](https://skillicons.dev)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mariose7en&icon=0&color=6)](https://visitcount.itsvg.in)
