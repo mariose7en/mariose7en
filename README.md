@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https%3A%2F%2Faistudio.instagram.com%2Fai%2F1052795243443891%3Futm_source%3Dai_agent" target="_blank">
-    <img src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red>
+    <img src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red"/>
   </a>
 </div>
 
