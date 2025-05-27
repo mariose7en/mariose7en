@@ -101,7 +101,7 @@ I'm currently working on: <br/>
 &nbsp &nbsp 1. Laravel Website: <br/>
 &nbsp &nbsp &nbsp &nbsp a. Marketplace API <br/>
 &nbsp &nbsp &nbsp &nbsp b. Logistic and Warehouse system <br/>
-&nbsp &nbsp 2. Google Analytics
+&nbsp &nbsp 2. Google Analytics <br/>
 &nbsp &nbsp 3. Karaoke Youtube app
 </div>
 
