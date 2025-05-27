@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mario-pratama7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mario.se7en17@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mario.se7en17@gmail.com&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/375181829214437377" target="_blank">
