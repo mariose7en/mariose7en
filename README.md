@@ -1,42 +1,46 @@
 <h2>Hi there! Mario, here!</h2>
 <h3>IT Fullstack Developer | Business & Data Analyst </h3>  
 
-<h2 align="left">Connect with me:</h2>
-<div align="left">
+<h4>Connect with me:</h4>  
   <a href="https://www.linkedin.com/in/mario-pratama7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
+    </a>
+  &nbsp
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=mario.se7en17@gmail.com&tf=cm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  />
   </a>
+  &nbsp
   <a href="https://discord.com/users/375181829214437377" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="25" alt="discord logo"  />
   </a>
+  &nbsp
   <a href="https://wa.me/+6287701028920" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="25" height="25" alt="whatsapp logo"  />
   </a>
-</div>
+
 <div align="left">  
   <a href="https://www.facebook.com/share/12JvArQify8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="25" height="25" alt="facebook logo"  />
   </a>
+  &nbsp
   <a href="https://medium.com/@mario.se7en17" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="25" height="25" alt="medium logo"  />
   </a>
+  &nbsp
   <a href="https://www.instagram.com/mario.pratama7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"   alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="25" height="25"   alt="instagram logo"  />
   </a>
+  &nbsp
   <a href="https://aistudio.instagram.com/ai/1052795243443891?utm_source=ai_agent" target="_blank">
-    <img src="https://www.pngkey.com/png/detail/27-270956_mario-face-png-super-mario-face-png.png" width="40" height="40" alt="Mario Face Png - Super Mario Face Png@pngkey.com" >
+    <img src="https://www.pngkey.com/png/detail/27-270956_mario-face-png-super-mario-face-png.png" width="25" height="25" alt="Mario Face Png - Super Mario Face Png@pngkey.com" >
   </a>
-</div>
-<div align="left">
+  &nbsp &nbsp
   <a href="https://open.spotify.com/user/21c5ulsi65bcngzw6civ5yfiy?si=6bc10e18c63d46d1" target="_blank">
     <img src="https://img.shields.io/badge/mario_playlist-spotify-green"/>
   </a>
 </div>
 
-<h2 align="left">Tech Stack: </h2>
+<h3 align="left">Tech Stack: </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -87,9 +91,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<h2>Games: </h2>
+<div id="work_progress">
+I'm currently working on: <br/>
+&nbsp &nbsp 1. Laravel Website: <br/>
+&nbsp &nbsp &nbsp &nbsp a. Marketplace API <br/>
+&nbsp &nbsp &nbsp &nbsp b. Logistic and Warehouse system <br/>
+&nbsp &nbsp 2. Karaoke Youtube app
+</div>
+
+<h3>Games for you: </h3>
+<b>Pacman</b>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariose7en/mariose7en/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariose7en/mariose7en/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariose7en/mariose7en/output/pacman-contribution-graph.svg">
 </picture>
+<a href="https://dinosaur-game.site/" target="_blank">
+  <img src="https://img.shields.io/badge/dinosaur-google-white"/>
+</a>
+&nbsp &nbsp
+<a href="https://ggmggmgg.github.io/g/mario/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/supermario-nintendo-red"/>
+</a>
