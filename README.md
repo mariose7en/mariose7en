@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"   alt="instagram logo"  />
   </a>
   <a href="https://aistudio.instagram.com/ai/1052795243443891?utm_source=ai_agent" target="_blank">
-    <img src="https://img.shields.io/badge/super_mario_guardian-instagram_ai_bot-red"/>
+    <img src="https://www.pngkey.com/png/detail/27-270956_mario-face-png-super-mario-face-png.png" width="52" height="40" alt="Mario Face Png - Super Mario Face Png@pngkey.com" >
   </a>
 </div>
 <div align="left">
