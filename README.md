@@ -94,10 +94,8 @@
 
 <div id="work_progress">
 I'm currently working on: <br/>
-&nbsp &nbsp 1. Laravel Website: <br/>
-&nbsp &nbsp &nbsp &nbsp a. Marketplace API <br/>
-&nbsp &nbsp &nbsp &nbsp b. Logistic and Warehouse system <br/>
-&nbsp &nbsp 2. Google Analytics
+&nbsp &nbsp 1. ERP project <br/>
+&nbsp &nbsp 2. Marketplace Integration <br/>
 </div>
 
 <h3>Games for you: </h3>
@@ -107,9 +105,6 @@ I'm currently working on: <br/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariose7en/mariose7en/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariose7en/mariose7en/output/pacman-contribution-graph.svg">
 </picture>
-<a href="https://dinosaur-game.site/" target="_blank">
-  <img src="https://img.shields.io/badge/dinosaur-google-white"/>
-</a>
 &nbsp &nbsp
 <a href="https://ggmggmgg.github.io/g/mario/index.html" target="_blank">
   <img src="https://img.shields.io/badge/supermario-nintendo-red"/>
