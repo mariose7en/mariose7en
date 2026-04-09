@@ -34,10 +34,6 @@
   <a href="https://aistudio.instagram.com/ai/1052795243443891?utm_source=ai_agent" target="_blank">
     <img src="https://www.pngkey.com/png/detail/27-270956_mario-face-png-super-mario-face-png.png" width="25" height="25" alt="Mario Face Png - Super Mario Face Png@pngkey.com" >
   </a>
-  &nbsp &nbsp
-  <a href="https://open.spotify.com/user/21c5ulsi65bcngzw6civ5yfiy?si=6bc10e18c63d46d1" target="_blank">
-    <img src="https://img.shields.io/badge/mario_playlist-spotify-green"/>
-  </a>
 </div>
 
 <h3 align="left">Tech Stack: </h3>
